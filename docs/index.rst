@@ -14,6 +14,6 @@ Welcome to marble.github.io/rtd-github-pages!
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+*  :ref:`genindex`
+*  :ref:`modindex`
+*  :ref:`search`
