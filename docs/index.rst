@@ -1,5 +1,5 @@
-Welcome to marble.github.io/rtd-github-pages!
-=============================================
+Welcome!
+========
 
 Rendered: |today|
 
