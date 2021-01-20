@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://marble.github.io/rtd-github-pages/" target="_blank">
+    <img src="docs/_static/site-is-published-at.png?raw=true" alt="Teaser with link"/>
+  </a>
+</p>
+
 ![docs_pages_workflow](https://github.com/maltfield/rtd-github-pages/workflows/docs_pages_workflow/badge.svg?branch=master)
 
 # Continuous Documentation: Hosting Read the Docs on GitHub Pages
